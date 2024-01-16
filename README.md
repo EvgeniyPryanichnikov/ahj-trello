@@ -1,5 +1,6 @@
 ### Trello
-//
+[![Build status](https://ci.appveyor.com/api/projects/status/hwsd8sjt7lwvtgej?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-trello)
+
 //
 #### Легенда
 
