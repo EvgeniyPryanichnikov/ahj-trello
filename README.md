@@ -1,7 +1,7 @@
 ### Trello
 [![Build status](https://ci.appveyor.com/api/projects/status/hwsd8sjt7lwvtgej?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-trello)
 
-//
+deployment: https://evgeniypryanichnikov.github.io/ahj-trello/
 #### Легенда
 
 Вы делаете внутрикорпоративную систему управления задачами, и вашему руководству очень нравится подход, который используется в [Trello](https://trello.com):
