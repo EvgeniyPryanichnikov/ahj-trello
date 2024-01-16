@@ -8,6 +8,7 @@ export default function drag(main, el) {
       left: box.left + window.scrollX,
     };
   }
+
   const container = main;
   const item = el;
   let draggedEl = null;
